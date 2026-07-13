@@ -2,4 +2,4 @@
 
 ffmpeg binaries for easy access.
 
-These are the unadultered binaries that can be found in the official ffmpeg [download page](https://ffmpeg.org/download.html).
+These are the unadultered binaries that can be found in the official ffmpeg [download page]([https://ffmpeg.org/download.html](https://github.com/BtbN/FFmpeg-Builds/releases)).
